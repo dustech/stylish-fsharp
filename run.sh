@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-dotnet run --project ./src/StylishFsharp.FirstSteps/StylishFsharp.FirstSteps.fsproj
+dotnet run --project ./src/StylishFsharp.FirstSteps/StylishFsharp.FirstSteps.fsproj $1
